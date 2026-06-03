@@ -7,17 +7,17 @@ spec:
   generators:
     - git:
         repoURL: https://github.com/sprakriy/ArgoCD-multi-repo-pipeline.git
-        revision: HEAD
+        revision: main
         directories:
           - path: apps/*
   template:
     metadata:
-      name: '{{path[1]}}'
+      name: '{{path}}'
     spec:
       project: default
       source:
         repoURL: https://github.com/sprakriy/ArgoCD-multi-repo-pipeline.git
-        targetRevision: HEAD
+        targetRevision: main
         path: '{{path}}'
       destination:
         server: https://kubernetes.default.svc
