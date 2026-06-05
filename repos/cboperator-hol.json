@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/cboperator-hol.git",
-  "name": "cboperator-hol"
+  "name": "cboperator-hol",
+  "path": "."
 }

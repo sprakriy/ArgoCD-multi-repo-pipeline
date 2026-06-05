@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/aws-governance-automation.git",
-  "name": "aws-governance-automation"
+  "name": "aws-governance-automation",
+  "path": "."
 }

@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/ai-gpu-pipeline.git",
-  "name": "ai-gpu-pipeline"
+  "name": "ai-gpu-pipeline",
+  "path": "."
 }

@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/db-fargate-project.git",
-  "name": "db-fargate-project"
+  "name": "db-fargate-project",
+  "path": "."
 }

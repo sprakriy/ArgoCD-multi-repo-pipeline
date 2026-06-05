@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/openshift-terraform.git",
-  "name": "openshift-terraform"
+  "name": "openshift-terraform",
+  "path": "."
 }

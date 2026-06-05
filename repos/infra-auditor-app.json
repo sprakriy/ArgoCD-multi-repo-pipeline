@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/infra-auditor-app.git",
-  "name": "infra-auditor-app"
+  "name": "infra-auditor-app",
+  "path": "."
 }

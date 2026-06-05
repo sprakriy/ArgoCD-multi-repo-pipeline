@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/CalculatorLibrary.git",
-  "name": "CalculatorLibrary"
+  "name": "CalculatorLibrary",
+  "path": "."
 }

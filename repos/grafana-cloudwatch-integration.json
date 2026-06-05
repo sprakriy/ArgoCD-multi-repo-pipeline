@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/grafana-cloudwatch-integration.git",
-  "name": "grafana-cloudwatch-integration"
+  "name": "grafana-cloudwatch-integration",
+  "path": "."
 }

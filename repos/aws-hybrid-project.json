@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/aws-hybrid-project.git",
-  "name": "aws-hybrid-project"
+  "name": "aws-hybrid-project",
+  "path": "."
 }

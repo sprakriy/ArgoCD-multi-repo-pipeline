@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/label-ai-detection-using-aws-rekognition.git",
-  "name": "label-ai-detection-using-aws-rekognition"
+  "name": "label-ai-detection-using-aws-rekognition",
+  "path": "."
 }

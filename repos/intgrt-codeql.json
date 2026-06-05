@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/intgrt-codeql.git",
-  "name": "intgrt-codeql"
+  "name": "intgrt-codeql",
+  "path": "."
 }

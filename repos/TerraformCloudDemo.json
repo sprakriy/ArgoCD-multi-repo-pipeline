@@ -1,4 +1,5 @@
 {
   "url": "https://github.com/sprakriy/TerraformCloudDemo.git",
-  "name": "TerraformCloudDemo"
+  "name": "TerraformCloudDemo",
+  "path": "."
 }
