@@ -10,5 +10,5 @@ jq -c '.[]' all_repos.json | while read -r line; do
     name=$(echo "$line" | jq -r '.url | split("/") | last | rtrimstr(".git")')
     
     # Create the object with name and url
-    echo "$line" | jq --arg n "$name" '. + {name: $n}' > "repos/${name}.json"
+    echo "$line" | jq --arg n "$name" '. + {name: $n, path: "."}' > "repos/${name}.json" > "repos/${name}.json"
 done
