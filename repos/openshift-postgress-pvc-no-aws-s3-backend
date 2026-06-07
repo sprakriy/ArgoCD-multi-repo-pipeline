@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/sprakriy/openshift-postgress-pvc-no-aws-s3-backend.git",
+  "name": "openshift-postgress-pvc-no-aws-s3-backend",
+  "path": "/"
+}
